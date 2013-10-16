@@ -61,7 +61,6 @@
 
         <gap:plugin name="ChildBrowser" version="4.0.0" />
 <gap:plugin name="PGSQLitePlugin" version="2.1.0" />
-<gap:plugin name="MailToPlugin" version="2.0.0" />
 <gap:plugin name="com.arnia.plugins.smsbuilder" />
 
         <feature name="http://api.phonegap.com/1.0/camera"/>
