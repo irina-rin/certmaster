@@ -59,7 +59,6 @@
 <gap:splash src="AppResources/splashes/hdpi.png" gap:platform="android" gap:density="hdpi" />
 <gap:splash src="AppResources/splashes/wp.jpg" gap:platform="winphone" />
 
-        <gap:plugin name="ChildBrowser" version="4.0.0" />
 <gap:plugin name="PGSQLitePlugin" version="2.1.0" />
 <gap:plugin name="com.arnia.plugins.smsbuilder" />
 
